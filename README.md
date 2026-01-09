@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ffnprompt.com)](https://fnprompt.com)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-blue?logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore)
+[![VS Code](https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=fnprompt.fnprompt-vscode)
 [![CLI](https://img.shields.io/badge/CLI-Terminal_Tool-black?logo=gnubash&logoColor=white)](#)
 [![License](https://img.shields.io/badge/license-Proprietary-red)](https://fnprompt.com)
 
@@ -14,7 +15,7 @@
 
 ### What is fnPrompt?
 
-**fnPrompt** is a comprehensive ecosystem (Web, Extension, CLI) designed to bridge the gap between human ideas and complex Artificial Intelligence interactions. It acts as an "Elite Prompt Architect," transforming vague user inputs into sophisticated, structured "System Prompts" that unlock the full potential of LLMs like ChatGPT, Claude, and Gemini.
+**fnPrompt** is a comprehensive ecosystem (Web, Extension, VS Code, CLI) designed to bridge the gap between human ideas and complex Artificial Intelligence interactions. It acts as an "Elite Prompt Architect," transforming vague user inputs into sophisticated, structured "System Prompts" that unlock the full potential of LLMs like ChatGPT, Claude, and Gemini.
 
 Whether you are a casual user or a developer, fnPrompt helps you organize, generate, and deploy high-quality prompts instantly.
 
@@ -30,7 +31,15 @@ The core of the ecosystem is a robust web application built for speed and commun
 * **Privacy Controls:** Users have the option to save prompts as **"Public"** (shared with the community) or **"Private"** (encrypted and visible only to the user).
 * **User Profiles:** Custom nicknames and avatar visibility settings for privacy-conscious users.
 
-#### 2. The Chrome Extension
+#### 2. Visual Studio Code Extension
+**NEW!** Bring the power of fnPrompt directly into your IDE.
+
+* **Right-Click & Generate:** Highlight any text or code comment, right-click, and select `fnPrompt: Refactor`.
+* **Flow State:** Generate professional system prompts without leaving your editor.
+* **Side-by-Side:** Opens the generated prompt in a new editor window for easy copying or editing.
+* **[Download for VS Code](https://marketplace.visualstudio.com/items?itemName=fnprompt.fnprompt-vscode)**
+
+#### 3. The Chrome Extension
 The fnPrompt Chrome Extension takes productivity to the next level by integrating your prompt library directly into your workflow.
 
 * **Instant Access:** Access the entire community library and your personal collection without leaving your current tab.
@@ -38,7 +47,7 @@ The fnPrompt Chrome Extension takes productivity to the next level by integratin
 * **Real-Time Search:** Quickly find specific prompts using the built-in search bar.
 * **Seamless Sync:** Any prompt saved on the website is instantly available in the extension.
 
-#### 3. The CLI Tool (Terminal)
+#### 4. The CLI Tool (Terminal)
 For developers and command-line enthusiasts, fnPrompt offers a powerful CLI tool to generate and manage prompts directly from the terminal.
 
 * **Generate & Copy:** Generate a professional prompt and automatically copy it to your clipboard with a single command.
@@ -57,11 +66,12 @@ For developers and command-line enthusiasts, fnPrompt offers a powerful CLI tool
 
 ### 🛠️ How It Works
 
-1.  **Ideation:** The user inputs a raw idea via Web, Extension, or CLI.
+1.  **Ideation:** The user inputs a raw idea via Web, Chrome, VS Code, or CLI.
 2.  **Architecture:** The centralized backend processes the input and structures it into a professional prompt.
 3.  **Storage:** The result is saved to the user's collection and synced across all platforms.
 4.  **Deployment:**
     * **Web:** Copy manually.
+    * **VS Code:** Open in new editor tab.
     * **Extension:** One-click injection into AI tools.
     * **CLI:** Auto-copy to system clipboard.
 
@@ -78,7 +88,7 @@ For developers and command-line enthusiasts, fnPrompt offers a powerful CLI tool
 
 ### fnPrompt Nedir?
 
-**fnPrompt**, insan düşünceleri ile karmaşık Yapay Zeka etkileşimleri arasındaki boşluğu doldurmak için tasarlanmış kapsamlı bir ekosistemdir (Web, Eklenti, Terminal). Bir "Elit Prompt Mimarı" gibi davranarak, kullanıcıların aklındaki kaba fikirleri; *Persona, Amaç, Bağlam ve Kurallar* içeren profesyonel "Sistem Promptlarına" dönüştürür.
+**fnPrompt**, insan düşünceleri ile karmaşık Yapay Zeka etkileşimleri arasındaki boşluğu doldurmak için tasarlanmış kapsamlı bir ekosistemdir (Web, Eklenti, VS Code, Terminal). Bir "Elit Prompt Mimarı" gibi davranarak, kullanıcıların aklındaki kaba fikirleri; *Persona, Amaç, Bağlam ve Kurallar* içeren profesyonel "Sistem Promptlarına" dönüştürür.
 
 fnPrompt, hem bireysel kullanıcılar hem de geliştiriciler için ChatGPT, Claude ve Gemini gibi modellerden en yüksek verimi almayı sağlar.
 
@@ -94,7 +104,15 @@ Ekosistemin merkezi, hız ve topluluk etkileşimi için optimize edilmiş güçl
 * **Gizlilik Kontrolleri:** Kullanıcılar promptlarını **"Herkese Açık"** (toplulukla paylaşılır) veya **"Sadece Ben"** (gizli ve şifreli) olarak kaydedebilir.
 * **Kullanıcı Profilleri:** Gizliliğe önem verenler için takma isim (nickname) ve avatar gizleme seçenekleri.
 
-#### 2. Chrome Eklentisi
+#### 2. Visual Studio Code Eklentisi
+**YENİ!** fnPrompt gücünü doğrudan kod editörünüze taşıyın.
+
+* **Sağ Tıkla & Üret:** Kod içindeki bir yorum satırını veya metni seçin, sağ tıklayıp `fnPrompt: Refactor` diyerek saniyeler içinde prompt üretin.
+* **Odak Modu:** Tarayıcıya gitmenize gerek kalmadan, editör içinde AI promptları oluşturun.
+* **Yeni Pencere:** Sonucu yan sekmede açar, düzenlemenize imkan tanır.
+* **[VS Code için İndir](https://marketplace.visualstudio.com/items?itemName=fnprompt.fnprompt-vscode)**
+
+#### 3. Chrome Eklentisi
 fnPrompt Chrome Eklentisi, kütüphanenizi doğrudan çalışma alanınıza taşıyarak üretkenliğinizi artırır.
 
 * **Anında Erişim:** Bulunduğunuz sekmeden ayrılmadan tüm topluluk kütüphanesine ve kişisel koleksiyonunuza erişin.
@@ -102,7 +120,7 @@ fnPrompt Chrome Eklentisi, kütüphanenizi doğrudan çalışma alanınıza taş
 * **Anlık Arama:** Eklenti içindeki arama çubuğu ile binlerce prompt arasından ihtiyacınız olanı saniyeler içinde bulun.
 * **Kesintisiz Senkronizasyon:** Web sitesinde kaydettiğiniz bir prompt, anında eklentide belirir.
 
-#### 3. CLI Aracı (Terminal)
+#### 4. CLI Aracı (Terminal)
 Geliştiriciler ve terminal tutkunları için fnPrompt, tüm işlemleri komut satırından yapmanızı sağlayan güçlü bir CLI aracı sunar.
 
 * **Üret & Kopyala:** Tek bir komutla profesyonel prompt üretin ve sonucu otomatik olarak panonuza kopyalayın.
@@ -121,11 +139,12 @@ Geliştiriciler ve terminal tutkunları için fnPrompt, tüm işlemleri komut sa
 
 ### 🛠️ Nasıl Çalışır?
 
-1.  **Fikir:** Kullanıcı ham fikrini Web, Eklenti veya CLI üzerinden girer.
+1.  **Fikir:** Kullanıcı ham fikrini Web, Eklenti, VS Code veya CLI üzerinden girer.
 2.  **Mimari:** Merkezi backend sistemi bu girdiyi işler ve profesyonel bir prompt formatına dönüştürür.
 3.  **Saklama:** Sonuç, kullanıcının koleksiyonuna kaydedilir ve tüm platformlarda senkronize olur.
 4.  **Kullanım:**
     * **Web:** Manuel kopyalama.
+    * **VS Code:** Editör içinde yeni pencere.
     * **Eklenti:** Yapay zeka araçlarına tek tıkla enjekte etme.
     * **CLI:** Sistem panosuna otomatik kopyalama.
 
