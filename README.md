@@ -1,7 +1,8 @@
 # 🚀 fnPrompt - AI Prompt Architect
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ffnprompt.com)](https://fnprompt.com)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-blue?logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-blue?logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/fnprompt-ai-prompt-archit/jppkhigpabafljnbcgbpepnlkggidgnp)
+[![Firefox Add-on](https://img.shields.io/badge/Firefox_Add--ons-Available-orange?logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/fnprompt-ai-prompt-architect/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=fnprompt.fnprompt-vscode)
 [![CLI](https://img.shields.io/badge/CLI-Terminal_Tool-black?logo=gnubash&logoColor=white)](#)
 [![License](https://img.shields.io/badge/license-Proprietary-red)](https://fnprompt.com)
@@ -47,7 +48,15 @@ The fnPrompt Chrome Extension takes productivity to the next level by integratin
 * **Real-Time Search:** Quickly find specific prompts using the built-in search bar.
 * **Seamless Sync:** Any prompt saved on the website is instantly available in the extension.
 
-#### 4. The CLI Tool (Terminal)
+#### 4. The Firefox Extension
+**NEW!** Seamlessly integrate fnPrompt into your Mozilla Firefox browser.
+
+* **Cross-Browser Support:** Enjoy the same powerful features as the Chrome extension, now on Firefox.
+* **Smart Injection:** Automatically injects prompts into AI tools like ChatGPT and Claude directly from the extension popup.
+* **Privacy Focused:** Built with Mozilla's strict privacy standards in mind.
+* **[Get it for Firefox](https://addons.mozilla.org/en-US/firefox/addon/fnprompt-ai-prompt-architect/)**
+
+#### 5. The CLI Tool (Terminal)
 For developers and command-line enthusiasts, fnPrompt offers a powerful CLI tool to generate and manage prompts directly from the terminal.
 
 * **Generate & Copy:** Generate a professional prompt and automatically copy it to your clipboard with a single command.
@@ -66,20 +75,20 @@ For developers and command-line enthusiasts, fnPrompt offers a powerful CLI tool
 
 ### 🛠️ How It Works
 
-1.  **Ideation:** The user inputs a raw idea via Web, Chrome, VS Code, or CLI.
-2.  **Architecture:** The centralized backend processes the input and structures it into a professional prompt.
-3.  **Storage:** The result is saved to the user's collection and synced across all platforms.
-4.  **Deployment:**
-    * **Web:** Copy manually.
-    * **VS Code:** Open in new editor tab.
-    * **Extension:** One-click injection into AI tools.
-    * **CLI:** Auto-copy to system clipboard.
+1.  **Ideation:** The user inputs a raw idea via Web, Extensions, VS Code, or CLI.
+2.  **Architecture:** The centralized backend processes the input and structures it into a professional prompt.
+3.  **Storage:** The result is saved to the user's collection and synced across all platforms.
+4.  **Deployment:**
+    * **Web:** Copy manually.
+    * **VS Code:** Open in new editor tab.
+    * **Extensions:** One-click injection into AI tools.
+    * **CLI:** Auto-copy to system clipboard.
 
 ### 🔒 Privacy & Security
 
 * **Authentication:** Secure Google OAuth integration for web; Token-based authentication for CLI.
 * **Data Protection:** Private prompts are strictly isolated and never shown in public feeds.
-* **Minimal Permissions:** The Chrome extension only activates injection scripts when explicitly triggered by the user.
+* **Minimal Permissions:** The browser extensions only activate injection scripts when explicitly triggered by the user.
 
 ---
 
@@ -120,7 +129,15 @@ fnPrompt Chrome Eklentisi, kütüphanenizi doğrudan çalışma alanınıza taş
 * **Anlık Arama:** Eklenti içindeki arama çubuğu ile binlerce prompt arasından ihtiyacınız olanı saniyeler içinde bulun.
 * **Kesintisiz Senkronizasyon:** Web sitesinde kaydettiğiniz bir prompt, anında eklentide belirir.
 
-#### 4. CLI Aracı (Terminal)
+#### 4. Firefox Eklentisi
+**YENİ!** fnPrompt deneyimini Mozilla Firefox tarayıcınıza taşıyın.
+
+* **Tam Uyumluluk:** Chrome eklentisindeki tüm özelliklerin aynısı artık Firefox'ta.
+* **Akıllı Entegrasyon:** Eklenti penceresinden ChatGPT ve Claude gibi araçlara tek tıkla prompt aktarın.
+* **Gizlilik Odaklı:** Mozilla'nın yüksek gizlilik standartlarına uygun olarak geliştirildi.
+* **[Firefox için İndir](https://addons.mozilla.org/en-US/firefox/addon/fnprompt-ai-prompt-architect/)**
+
+#### 5. CLI Aracı (Terminal)
 Geliştiriciler ve terminal tutkunları için fnPrompt, tüm işlemleri komut satırından yapmanızı sağlayan güçlü bir CLI aracı sunar.
 
 * **Üret & Kopyala:** Tek bir komutla profesyonel prompt üretin ve sonucu otomatik olarak panonuza kopyalayın.
@@ -139,24 +156,24 @@ Geliştiriciler ve terminal tutkunları için fnPrompt, tüm işlemleri komut sa
 
 ### 🛠️ Nasıl Çalışır?
 
-1.  **Fikir:** Kullanıcı ham fikrini Web, Eklenti, VS Code veya CLI üzerinden girer.
-2.  **Mimari:** Merkezi backend sistemi bu girdiyi işler ve profesyonel bir prompt formatına dönüştürür.
-3.  **Saklama:** Sonuç, kullanıcının koleksiyonuna kaydedilir ve tüm platformlarda senkronize olur.
-4.  **Kullanım:**
-    * **Web:** Manuel kopyalama.
-    * **VS Code:** Editör içinde yeni pencere.
-    * **Eklenti:** Yapay zeka araçlarına tek tıkla enjekte etme.
-    * **CLI:** Sistem panosuna otomatik kopyalama.
+1.  **Fikir:** Kullanıcı ham fikrini Web, Eklentiler, VS Code veya CLI üzerinden girer.
+2.  **Mimari:** Merkezi backend sistemi bu girdiyi işler ve profesyonel bir prompt formatına dönüştürür.
+3.  **Saklama:** Sonuç, kullanıcının koleksiyonuna kaydedilir ve tüm platformlarda senkronize olur.
+4.  **Kullanım:**
+    * **Web:** Manuel kopyalama.
+    * **VS Code:** Editör içinde yeni pencere.
+    * **Eklentiler:** Yapay zeka araçlarına tek tıkla enjekte etme.
+    * **CLI:** Sistem panosuna otomatik kopyalama.
 
 ### 🔒 Gizlilik ve Güvenlik
 
 * **Kimlik Doğrulama:** Web için Güvenli Google OAuth; CLI için Token bazlı kimlik doğrulama.
 * **Veri Koruma:** Gizli olarak işaretlenen promptlar kesinlikle izole edilir ve topluluk akışlarında gösterilmez.
-* **Minimum İzinler:** Chrome eklentisi, yalnızca kullanıcı "Kopyala & Yapıştır" butonuna bastığında ilgili komut dosyalarını çalıştırır.
+* **Minimum İzinler:** Tarayıcı eklentileri, yalnızca kullanıcı "Kopyala & Yapıştır" butonuna bastığında ilgili komut dosyalarını çalıştırır.
 
 ---
 
 ### 📬 Contact / İletişim
 
-Project Website: [fnprompt.com](https://fnprompt.com)  
+Project Website: [fnprompt.com](https://fnprompt.com)  
 Support: info@fnprompt.com
