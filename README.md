@@ -4,7 +4,7 @@
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-blue?logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/fnprompt-ai-prompt-archit/jppkhigpabafljnbcgbpepnlkggidgnp)
 [![Firefox Add-on](https://img.shields.io/badge/Firefox_Add--ons-Available-orange?logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/fnprompt-ai-prompt-architect/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=fnprompt.fnprompt-vscode)
-[![JetBrains](https://img.shields.io/badge/JetBrains-Marketplace-21D789?logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/plugin/29711-fnprompt--ai-prompt-architect)
+[![JetBrains](https://img.shields.io/badge/JetBrains-Marketplace-000000?logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/plugin/29711-fnprompt--ai-prompt-architect)
 [![CLI](https://img.shields.io/badge/CLI-Terminal_Tool-black?logo=gnubash&logoColor=white)](#)
 [![License](https://img.shields.io/badge/license-Proprietary-red)](https://fnprompt.com)
 
@@ -17,7 +17,7 @@
 
 ### What is fnPrompt?
 
-**fnPrompt** is a comprehensive ecosystem (Web, Extensions, VS Code, JetBrains, CLI) designed to bridge the gap between human ideas and complex Artificial Intelligence interactions. It acts as an "Elite Prompt Architect," transforming vague user inputs into sophisticated, structured "System Prompts" that unlock the full potential of LLMs like ChatGPT, Claude, and Gemini.
+**fnPrompt** is a comprehensive ecosystem (Web, Extensions, IDEs, CLI) designed to bridge the gap between human ideas and complex Artificial Intelligence interactions. It acts as an "Elite Prompt Architect," transforming vague user inputs into sophisticated, structured "System Prompts" that unlock the full potential of LLMs like ChatGPT, Claude, and Gemini.
 
 Whether you are a casual user or a developer, fnPrompt helps you organize, generate, and deploy high-quality prompts instantly.
 
@@ -41,7 +41,14 @@ Bring the power of fnPrompt directly into your VS Code editor.
 * **Side-by-Side:** Opens the generated prompt in a new editor window for easy copying or editing.
 * **[Download for VS Code](https://marketplace.visualstudio.com/items?itemName=fnprompt.fnprompt-vscode)**
 
-#### 3. The Chrome Extension
+#### 3. JetBrains Plugin
+Native integration for the entire JetBrains suite (IntelliJ IDEA, PyCharm, WebStorm, PHPStorm, etc.).
+
+* **Seamless Integration:** Access fnPrompt features directly within your favorite JetBrains IDE.
+* **Context Actions:** Select code, right-click, and generate prompts instantly.
+* **[Download for JetBrains](https://plugins.jetbrains.com/plugin/29711-fnprompt--ai-prompt-architect)**
+
+#### 4. The Chrome Extension
 The fnPrompt Chrome Extension takes productivity to the next level by integrating your prompt library directly into your workflow.
 
 * **Instant Access:** Access the entire community library and your personal collection without leaving your current tab.
@@ -49,21 +56,13 @@ The fnPrompt Chrome Extension takes productivity to the next level by integratin
 * **Real-Time Search:** Quickly find specific prompts using the built-in search bar.
 * **Seamless Sync:** Any prompt saved on the website is instantly available in the extension.
 
-#### 4. The Firefox Extension
+#### 5. The Firefox Extension
 Seamlessly integrate fnPrompt into your Mozilla Firefox browser.
 
 * **Cross-Browser Support:** Enjoy the same powerful features as the Chrome extension, now on Firefox.
 * **Smart Injection:** Automatically injects prompts into AI tools like ChatGPT and Claude directly from the extension popup.
 * **Privacy Focused:** Built with Mozilla's strict privacy standards in mind.
 * **[Get it for Firefox](https://addons.mozilla.org/en-US/firefox/addon/fnprompt-ai-prompt-architect/)**
-
-#### 5. The JetBrains Plugin
-**NEW!** Native integration for IntelliJ IDEA, PyCharm, WebStorm, PHPStorm, and more.
-
-* **Universal Compatibility:** Works across the entire JetBrains product family.
-* **Contextual Generation:** Select code or comments in your IDE, right-click, and generate high-fidelity prompts instantly.
-* **Developer Focused:** Designed to help you refactor, debug, or document code using AI without switching windows.
-* **[Download for JetBrains](https://plugins.jetbrains.com/plugin/29711-fnprompt--ai-prompt-architect)**
 
 #### 6. The CLI Tool (Terminal)
 For developers and command-line enthusiasts, fnPrompt offers a powerful CLI tool to generate and manage prompts directly from the terminal.
@@ -84,14 +83,14 @@ For developers and command-line enthusiasts, fnPrompt offers a powerful CLI tool
 
 ### 🛠️ How It Works
 
-1.  **Ideation:** The user inputs a raw idea via Web, Extensions, IDEs, or CLI.
-2.  **Architecture:** The centralized backend processes the input and structures it into a professional prompt.
-3.  **Storage:** The result is saved to the user's collection and synced across all platforms.
-4.  **Deployment:**
-    * **Web:** Copy manually.
-    * **VS Code / JetBrains:** Open in new editor tab or browser.
-    * **Extensions:** One-click injection into AI tools.
-    * **CLI:** Auto-copy to system clipboard.
+1.  **Ideation:** The user inputs a raw idea via Web, Extensions, IDEs, or CLI.
+2.  **Architecture:** The centralized backend processes the input and structures it into a professional prompt.
+3.  **Storage:** The result is saved to the user's collection and synced across all platforms.
+4.  **Deployment:**
+    * **Web:** Copy manually.
+    * **VS Code / JetBrains:** Open in new editor tab/browser.
+    * **Extensions:** One-click injection into AI tools.
+    * **CLI:** Auto-copy to system clipboard.
 
 ### 🔒 Privacy & Security
 
@@ -130,7 +129,14 @@ fnPrompt gücünü doğrudan kod editörünüze taşıyın.
 * **Yeni Pencere:** Sonucu yan sekmede açar, düzenlemenize imkan tanır.
 * **[VS Code için İndir](https://marketplace.visualstudio.com/items?itemName=fnprompt.fnprompt-vscode)**
 
-#### 3. Chrome Eklentisi
+#### 3. JetBrains Eklentisi
+Tüm JetBrains ürün ailesi (IntelliJ IDEA, PyCharm, WebStorm, PHPStorm vb.) için yerel entegrasyon.
+
+* **Sorunsuz Entegrasyon:** Favori JetBrains IDE'nizin içinden fnPrompt özelliklerine erişin.
+* **Bağlamsal İşlemler:** Kodu seçin, sağ tıklayın ve anında prompt üretin.
+* **[JetBrains için İndir](https://plugins.jetbrains.com/plugin/29711-fnprompt--ai-prompt-architect)**
+
+#### 4. Chrome Eklentisi
 fnPrompt Chrome Eklentisi, kütüphanenizi doğrudan çalışma alanınıza taşıyarak üretkenliğinizi artırır.
 
 * **Anında Erişim:** Bulunduğunuz sekmeden ayrılmadan tüm topluluk kütüphanesine ve kişisel koleksiyonunuza erişin.
@@ -138,21 +144,13 @@ fnPrompt Chrome Eklentisi, kütüphanenizi doğrudan çalışma alanınıza taş
 * **Anlık Arama:** Eklenti içindeki arama çubuğu ile binlerce prompt arasından ihtiyacınız olanı saniyeler içinde bulun.
 * **Kesintisiz Senkronizasyon:** Web sitesinde kaydettiğiniz bir prompt, anında eklentide belirir.
 
-#### 4. Firefox Eklentisi
+#### 5. Firefox Eklentisi
 fnPrompt deneyimini Mozilla Firefox tarayıcınıza taşıyın.
 
 * **Tam Uyumluluk:** Chrome eklentisindeki tüm özelliklerin aynısı artık Firefox'ta.
 * **Akıllı Entegrasyon:** Eklenti penceresinden ChatGPT ve Claude gibi araçlara tek tıkla prompt aktarın.
 * **Gizlilik Odaklı:** Mozilla'nın yüksek gizlilik standartlarına uygun olarak geliştirildi.
 * **[Firefox için İndir](https://addons.mozilla.org/en-US/firefox/addon/fnprompt-ai-prompt-architect/)**
-
-#### 5. JetBrains Eklentisi
-**YENİ!** IntelliJ IDEA, PyCharm, WebStorm, PHPStorm ve daha fazlası için yerel entegrasyon.
-
-* **Evrensel Uyum:** Tüm JetBrains ürün ailesinde sorunsuz çalışır.
-* **Bağlamsal Üretim:** Kodunuzu veya yorum satırınızı seçin, sağ tıklayın ve IDE'nizi terk etmeden profesyonel promptlar üretin.
-* **Geliştirici Dostu:** Kod refactoring, debug veya dokümantasyon işlemlerini hızlandırmak için tasarlandı.
-* **[JetBrains için İndir](https://plugins.jetbrains.com/plugin/29711-fnprompt--ai-prompt-architect)**
 
 #### 6. CLI Aracı (Terminal)
 Geliştiriciler ve terminal tutkunları için fnPrompt, tüm işlemleri komut satırından yapmanızı sağlayan güçlü bir CLI aracı sunar.
@@ -173,14 +171,14 @@ Geliştiriciler ve terminal tutkunları için fnPrompt, tüm işlemleri komut sa
 
 ### 🛠️ Nasıl Çalışır?
 
-1.  **Fikir:** Kullanıcı ham fikrini Web, Eklentiler, IDE'ler veya CLI üzerinden girer.
-2.  **Mimari:** Merkezi backend sistemi bu girdiyi işler ve profesyonel bir prompt formatına dönüştürür.
-3.  **Saklama:** Sonuç, kullanıcının koleksiyonuna kaydedilir ve tüm platformlarda senkronize olur.
-4.  **Kullanım:**
-    * **Web:** Manuel kopyalama.
-    * **VS Code / JetBrains:** Editör içinde yeni pencere veya tarayıcı yönlendirmesi.
-    * **Eklentiler:** Yapay zeka araçlarına tek tıkla enjekte etme.
-    * **CLI:** Sistem panosuna otomatik kopyalama.
+1.  **Fikir:** Kullanıcı ham fikrini Web, Eklentiler, IDE'ler veya CLI üzerinden girer.
+2.  **Mimari:** Merkezi backend sistemi bu girdiyi işler ve profesyonel bir prompt formatına dönüştürür.
+3.  **Saklama:** Sonuç, kullanıcının koleksiyonuna kaydedilir ve tüm platformlarda senkronize olur.
+4.  **Kullanım:**
+    * **Web:** Manuel kopyalama.
+    * **VS Code / JetBrains:** Editör içinde yeni pencere veya tarayıcı yönlendirmesi.
+    * **Eklentiler:** Yapay zeka araçlarına tek tıkla enjekte etme.
+    * **CLI:** Sistem panosuna otomatik kopyalama.
 
 ### 🔒 Gizlilik ve Güvenlik
 
@@ -192,5 +190,5 @@ Geliştiriciler ve terminal tutkunları için fnPrompt, tüm işlemleri komut sa
 
 ### 📬 Contact / İletişim
 
-Project Website: [fnprompt.com](https://fnprompt.com)  
+Project Website: [fnprompt.com](https://fnprompt.com)  
 Support: info@fnprompt.com
