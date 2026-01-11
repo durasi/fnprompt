@@ -1,7 +1,7 @@
 # 🚀 fnPrompt - AI Prompt Architect
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ffnprompt.com)](https://fnprompt.com)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-blue?logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/fnprompt-ai-prompt-archit/jppkhigpabafljnbcgbpepnlkggidgnp)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-blue?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/fnprompt-ai-prompt-archit/fphiojaijkfdohkpmblmelpioigcpmbe)
 [![Firefox Add-on](https://img.shields.io/badge/Firefox_Add--ons-Available-orange?logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/fnprompt-ai-prompt-architect/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=fnprompt.fnprompt-vscode)
 [![JetBrains](https://img.shields.io/badge/JetBrains-Marketplace-000000?logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/plugin/29711-fnprompt--ai-prompt-architect)
@@ -55,6 +55,7 @@ The fnPrompt Chrome Extension takes productivity to the next level by integratin
 * **Smart Injection (One-Click Paste):** The extension detects active AI chat interfaces (like ChatGPT, Claude, Gemini) and injects the selected prompt directly into the input field with a single click.
 * **Real-Time Search:** Quickly find specific prompts using the built-in search bar.
 * **Seamless Sync:** Any prompt saved on the website is instantly available in the extension.
+* **[Get it for Chrome](https://chromewebstore.google.com/detail/fnprompt-ai-prompt-archit/fphiojaijkfdohkpmblmelpioigcpmbe)**
 
 #### 5. The Firefox Extension
 Seamlessly integrate fnPrompt into your Mozilla Firefox browser.
@@ -143,6 +144,7 @@ fnPrompt Chrome Eklentisi, kütüphanenizi doğrudan çalışma alanınıza taş
 * **Akıllı Yapıştırma (Tek Tıkla Entegrasyon):** Eklenti, açık olan yapay zeka aracını (ChatGPT, Claude, Gemini vb.) algılar ve seçtiğiniz promptu tek tıkla otomatik olarak yazı alanına yazar.
 * **Anlık Arama:** Eklenti içindeki arama çubuğu ile binlerce prompt arasından ihtiyacınız olanı saniyeler içinde bulun.
 * **Kesintisiz Senkronizasyon:** Web sitesinde kaydettiğiniz bir prompt, anında eklentide belirir.
+* **[Chrome için İndir](https://chromewebstore.google.com/detail/fnprompt-ai-prompt-archit/fphiojaijkfdohkpmblmelpioigcpmbe)**
 
 #### 5. Firefox Eklentisi
 fnPrompt deneyimini Mozilla Firefox tarayıcınıza taşıyın.
